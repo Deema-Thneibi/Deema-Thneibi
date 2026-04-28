@@ -133,7 +133,7 @@ Designed a calm and accessible interface focused on readability.
 <td width="33%" valign="top">
 
 <a href="https://vsupportivedesign.com/" target="_blank">
-  <img src="IMAGE_LINK_VIOLETTA" width="100%" />
+  <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/vsupportivedesign.png" width="100%" />
 </a>
 
 <br>
