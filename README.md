@@ -21,15 +21,20 @@
 
 ### `>_` Front-End Developer | React & WordPress
 
-I build responsive, user-friendly web applications and modern websites that deliver real value.
+I don’t just build websites — I improve how users experience them.
 
-Passionate about clean code, great UX, and security.
+Developed and redesigned real client websites that increased engagement by up to 25%, focusing on clean UI, intuitive UX, and performance.
 
+Specialized in React and WordPress, with a solid foundation in backend development (ASP.NET) and a growing focus on cybersecurity.
+ <br/>
 📧 **Email:** deemathneibi@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/deemathneibi](https://linkedin.com/in/deemathneibi)  
 🐙 **GitHub:** [github.com/Deema-Thneibi](https://github.com/Deema-Thneibi)
 
 </div>
+
+<br/>
+<br/>
 <br/>
 
 <p align="left"  >
