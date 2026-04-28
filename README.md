@@ -206,7 +206,6 @@ Developed a structured platform for workshops and events.
 </div>
 
 ----
----
 
 <div align="left">
 
