@@ -186,8 +186,7 @@ Built a visually refined website reflecting brand identity.
 <table width="100%" cellpadding="15">
 
 <tr>
-
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <a href="https://drive.google.com/drive/folders/1SQ9kALFzIVdmUjFtJtVTt6Io8sn8OkJq">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/elegantTouch.jpg" width="100%" />
@@ -213,8 +212,10 @@ Developed a full-featured e-commerce platform for Odai Abu Younis Furniture Stor
 </p>
 
 </td>
+</tr>
 
-<td width="50%" valign="top">
+<tr>
+<td width="100%" valign="top">
 
 <a href="#">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/vida.jpg" width="100%" />
@@ -240,12 +241,10 @@ Built a modern e-commerce platform with responsive design and cart system.
 </p>
 
 </td>
-
 </tr>
 
 <tr>
-
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <a href="https://deema-thneibi.github.io/Blackjack-game/">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/Blackjack%20Game.png" width="100%" />
@@ -271,13 +270,9 @@ Interactive game with full logic, card rendering, and dynamic UI.
 </p>
 
 </td>
-
-<td width="50%"></td>
-
 </tr>
 
 </table>
-
 ## 📌 About Me
 
 - 🎨 **Front-End Developer** specializing in **React & WordPress**
