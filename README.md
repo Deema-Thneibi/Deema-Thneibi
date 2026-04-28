@@ -1,3 +1,17 @@
+<h1 align="left">
+  Hi there, 
+  <span style="
+    background: linear-gradient(90deg, #b65cff, #ff5c8a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+  ">
+    I'm Deema Thneibi
+  </span>
+  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
+
 <div align="center">
 
 # 💘 Hi there, I'm <span style="color:#b65cff;">Deema Thneibi</span> 👋
