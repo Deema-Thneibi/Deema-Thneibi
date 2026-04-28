@@ -58,8 +58,6 @@ Specialized in React and WordPress, with a solid foundation in backend developme
 
 ## 🚀 Featured Portfolio
 
----
-
 ## 🌐 WordPress Projects — Real Client Websites
 
 <table width="100%" cellpadding="15">
@@ -273,6 +271,7 @@ Interactive game with full logic, card rendering, and dynamic UI.
 </tr>
 
 </table>
+
 ## 📌 About Me
 
 - 🎨 **Front-End Developer** specializing in **React & WordPress**
