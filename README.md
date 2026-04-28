@@ -13,11 +13,6 @@
 </h1>
 
 <div align="center">
-
-# 💘 Hi there, I'm <span style="color:#b65cff;">Deema Thneibi</span> 👋
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B65CFF&center=true&vCenter=true&width=800&lines=Front-End+Developer+%7C+React+%26+WordPress;Clean+Code+%7C+Modern+UI+%7C+Great+UX;Cybersecurity+%26+Threat+Intelligence;Code.+Create.+Impact." />
-
 ---
 
 <table>
