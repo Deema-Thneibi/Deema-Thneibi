@@ -85,7 +85,7 @@ Developed a structured and user-friendly healthcare website with improved servic
 <td width="33%" valign="top">
 
 <a href="https://aya-fitness.com/" target="_blank">
-  <img src="IMAGE_LINK_AYA" width="100%" />
+  <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/Aya.png" width="100%" />
 </a>
 
 <br>
