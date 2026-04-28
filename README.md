@@ -8,15 +8,15 @@
   ">
     I'm Deema Thneibi
   </span>
-  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF5C8A&width=700&lines=Front-End+Developer+%7C+React+%26+WordPress;Cybersecurity+%26+Threat+Intelligence" />
-<div align="center">
 
+<br>
 
 <img align="right" src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/img.png" width="400px"/>
+
 <div align="left">
 
 ### `>_` Front-End Developer | React & WordPress
@@ -26,40 +26,42 @@ I don’t just build websites — I improve how users experience them.
 Developed and redesigned real client websites that increased engagement by up to 25%, focusing on clean UI, intuitive UX, and performance.
 
 Specialized in React and WordPress, with a solid foundation in backend development (ASP.NET) and a growing focus on cybersecurity.
- <br/>
-  <br/>
+
+<br>
+
 📧 **Email:** deemathneibi@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/deemathneibi](https://linkedin.com/in/deemathneibi)  
 🐙 **GitHub:** [github.com/Deema-Thneibi](https://github.com/Deema-Thneibi)
 
 </div>
 
-<br/>
-<br/>
+<br clear="right"/>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/WordPress-1a1b27?style=for-the-badge&logo=wordpress&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/ASP.NET-1a1b27?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
-<img src="https://img.shields.io/badge/C%23-1a1b27?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Cybersecurity-1a1b27?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
-<img src="https://img.shields.io/badge/Threat%20Intelligence-1a1b27?style=for-the-badge&logo=virustotal&logoColor=394EFF"/>
+  <img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
+  <img src="https://img.shields.io/badge/WordPress-1a1b27?style=for-the-badge&logo=wordpress&logoColor=FFFFFF"/>&nbsp;
+  <img src="https://img.shields.io/badge/ASP.NET-1a1b27?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>&nbsp;
+  <img src="https://img.shields.io/badge/C%23-1a1b27?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=4479A1"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032"/>&nbsp;
+  <img src="https://img.shields.io/badge/Cybersecurity-1a1b27?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>&nbsp;
+  <img src="https://img.shields.io/badge/Threat%20Intelligence-1a1b27?style=for-the-badge&logo=virustotal&logoColor=394EFF"/>
 </p>
 
 ---
+
 <div align="left">
 
 ## 🚀 Featured Portfolio
 
+---
 
 ## 🌐 WordPress Projects — Real Client Websites
 
-<table>
-
+<table cellpadding="10">
 <tr>
 
 <td width="33%" valign="top">
@@ -67,8 +69,6 @@ Specialized in React and WordPress, with a solid foundation in backend developme
 <a href="https://mnt-clinic.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/MNT_Clinic.png" width="100%" />
 </a>
-
-<br>
 
 <h3>🏥 MNT Clinic</h3>
 
@@ -84,8 +84,6 @@ Developed a structured and user-friendly healthcare website with improved servic
 </a>
 </p>
 
-<br>
-
 </td>
 
 <td width="33%" valign="top">
@@ -93,8 +91,6 @@ Developed a structured and user-friendly healthcare website with improved servic
 <a href="https://aya-fitness.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/Aya.png" width="100%" />
 </a>
-
-<br>
 
 <h3>💪 Aya Fitness</h3>
 
@@ -110,8 +106,6 @@ Rebuilt the platform into a modern, responsive fitness website.
 </a>
 </p>
 
-<br>
-
 </td>
 
 <td width="33%" valign="top">
@@ -119,8 +113,6 @@ Rebuilt the platform into a modern, responsive fitness website.
 <a href="https://hadeel-therapy.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/hadeel.png" width="100%" />
 </a>
-
-<br>
 
 <h3>🧠 Hadeel’s Therapy</h3>
 
@@ -136,8 +128,6 @@ Designed a calm and accessible interface focused on readability.
 </a>
 </p>
 
-<br>
-
 </td>
 
 </tr>
@@ -149,8 +139,6 @@ Designed a calm and accessible interface focused on readability.
 <a href="https://vsupportivedesign.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/vsupportivedesign.png" width="100%" />
 </a>
-
-<br>
 
 <h3>🎨 V Supportive Design</h3>
 
@@ -166,8 +154,6 @@ Built a visually refined website reflecting brand identity.
 </a>
 </p>
 
-<br>
-
 </td>
 
 <td width="33%" valign="top">
@@ -175,8 +161,6 @@ Built a visually refined website reflecting brand identity.
 <a href="https://smaher-saadi-helf.com/workshops/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/smaher.png" width="100%" />
 </a>
-
-<br>
 
 <h3>🎤 Workshops Platform</h3>
 
@@ -192,25 +176,18 @@ Developed a structured platform for workshops and events.
 </a>
 </p>
 
-<br>
-
 </td>
 
-<td width="33%"></td>
+<td width="33%" valign="top"></td>
 
 </tr>
-
 </table>
 
-</div>
-
-----
-
-<div align="left">
+---
 
 ## 💻 Front-End Projects (React & JavaScript)
-<table>
 
+<table cellpadding="10">
 <tr>
 
 <td width="33%" valign="top">
@@ -227,11 +204,17 @@ Developed a full-featured e-commerce platform for Odai Abu Younis Furniture Stor
 
 <p><b>Impact:</b> Enhanced usability and improved the shopping flow.</p>
 
-<p><img src="https://skillicons.dev/icons?i=react,css,bootstrap" height="26"/></p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,css,bootstrap" height="26"/>
+</p>
 
 <p>
-<a href="https://github.com/Deema-Thneibi/Elegant-Touch"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://drive.google.com/drive/folders/1SQ9kALFzIVdmUjFtJtVTt6Io8sn8OkJq"><img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/Deema-Thneibi/Elegant-Touch">
+<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+<a href="https://drive.google.com/drive/folders/1SQ9kALFzIVdmUjFtJtVTt6Io8sn8OkJq">
+<img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 </p>
 
 </td>
@@ -250,19 +233,25 @@ Built a modern e-commerce platform with responsive design and cart system.
 
 <p><b>Impact:</b> Improved user interaction.</p>
 
-<p><img src="https://skillicons.dev/icons?i=react,css,bootstrap" height="26"/></p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,css,bootstrap" height="26"/>
+</p>
 
 <p>
-<a href="https://github.com/Deema-Thneibi/Vida"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://drive.google.com/file/d/1Bg2TUJC2qAlKFsgEog3_JM8eKncgeE0B/view"><img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/Deema-Thneibi/Vida">
+<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+<a href="https://drive.google.com/file/d/1Bg2TUJC2qAlKFsgEog3_JM8eKncgeE0B/view">
+<img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 </p>
 
 </td>
 
 <td width="33%" valign="top">
 
-<a href="#">
-  <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/Blackjack Game.png" width="100%" />
+<a href="https://deema-thneibi.github.io/Blackjack-game/">
+  <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/Blackjack%20Game.png" width="100%" />
 </a>
 
 <h3>🎮 Blackjack Game</h3>
@@ -273,19 +262,25 @@ Interactive game with full logic, card rendering, and dynamic UI.
 
 <p><b>Focus:</b> Interactivity and user engagement.</p>
 
-<p><img src="https://skillicons.dev/icons?i=html,css,js" height="26"/></p>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="26"/>
+</p>
 
 <p>
-<a href="https://github.com/Deema-Thneibi/Blackjack-game"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://deema-thneibi.github.io/Blackjack-game/"><img src="https://img.shields.io/badge/Live-1a1b27?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/Deema-Thneibi/Blackjack-game">
+<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+<a href="https://deema-thneibi.github.io/Blackjack-game/">
+<img src="https://img.shields.io/badge/Live-1a1b27?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
 </td>
 
 </tr>
-
-
 </table>
+
+---
 
 ## 📌 About Me
 
@@ -296,12 +291,15 @@ Interactive game with full logic, card rendering, and dynamic UI.
 - 🧠 Familiar with **IOCs, TTPs, and MITRE ATT&CK**
 - 🚀 Always learning and building **impactful real-world projects**
 
+---
+
 ## 🚀 Current Focus
 
 - ⚛️ Advanced React Development  
 - 🏗️ Building scalable web applications  
 - 🛡️ Cybersecurity & Threat Intelligence  
 - 🌍 Open to new opportunities  
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b65cff,100:ff5c8a&height=120&section=footer"/>
