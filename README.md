@@ -16,7 +16,7 @@
 <div align="center">
 
 
-<img align="right" src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/banner.png" width="500px"/>
+<img align="right" src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/img.png" width="500px"/>
 <div align="left">
 
 ### `>_` Front-End Developer | React & WordPress
