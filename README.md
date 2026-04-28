@@ -266,6 +266,110 @@ Created an interactive card game with complete game logic, dynamic UI updates, a
 
 </div>
 ---
+## 💻 React & Development Projects
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<a href="LIVE_DEMO_LINK">
+  <img src="BLACKJACK_IMAGE_LINK" width="100%" />
+</a>
+
+<br>
+
+<h3>🎮 Blackjack Game</h3>
+
+<p>
+Interactive Blackjack game with clean UI, score logic, card rendering, and smooth HIT / STAND gameplay.
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="26"/>
+</p>
+
+<p>
+  <a href="GITHUB_LINK" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-1a1b27?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="LIVE_DEMO_LINK" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/View%20Live-1a1b27?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="VIDEO_LINK" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Video-1a1b27?style=flat&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+</td>
+
+<td width="33%" valign="top">
+
+<a href="LIVE_DEMO_LINK">
+  <img src="ECOMMERCE_IMAGE_LINK" width="100%" />
+</a>
+
+<br>
+
+<h3>🛒 E-Commerce Platform</h3>
+
+<p>
+Full e-commerce frontend with authentication, product browsing, cart, order tracking, and admin dashboard.
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,dotnet,cs" height="26"/>
+</p>
+
+<p>
+  <a href="GITHUB_LINK" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-1a1b27?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="LIVE_DEMO_LINK" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/View%20Live-1a1b27?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+</td>
+
+<td width="33%" valign="top">
+
+<a href="LIVE_DEMO_LINK">
+  <img src="VIDA_IMAGE_LINK" width="100%" />
+</a>
+
+<br>
+
+<h3>🛍️ Vida E-Commerce</h3>
+
+<p>
+Responsive e-commerce interface with product filtering, cart management, and clean UX.
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js" height="26"/>
+</p>
+
+<p>
+  <a href="GITHUB_LINK" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-1a1b27?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="LIVE_DEMO_LINK" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/View%20Live-1a1b27?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+</td>
+
+</tr>
+</table>
+---
 
 <table>
 <tr>
