@@ -155,7 +155,7 @@ Built a visually refined website reflecting brand identity.
 <td width="33%" valign="top">
 
 <a href="https://smaher-saadi-helf.com/workshops/" target="_blank">
-  <img src="IMAGE_LINK_SAMAHER" width="100%" />
+  <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/smaher.png" width="100%" />
 </a>
 
 <br>
