@@ -60,6 +60,7 @@ Specialized in React and WordPress, with a solid foundation in backend developme
 ## 🌐 WordPress Projects — Real Client Websites
 
 <table>
+
 <tr>
 
 <td width="33%" valign="top">
@@ -70,7 +71,7 @@ Specialized in React and WordPress, with a solid foundation in backend developme
 
 <br>
 
-### 🏥 MNT Clinic  
+<h3>🏥 MNT Clinic</h3>
 
 <p>
 Developed a structured and user-friendly healthcare website with improved service clarity and navigation.
@@ -78,9 +79,13 @@ Developed a structured and user-friendly healthcare website with improved servic
 
 <p><b>Impact:</b> Enhanced usability and increased engagement.</p>
 
-🔗 [Visit Website](https://mnt-clinic.com/)
+<p>
+<a href="https://mnt-clinic.com/">
+<img src="https://img.shields.io/badge/View%20Website-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
 
-<br><br>
+<br>
 
 </td>
 
@@ -92,7 +97,7 @@ Developed a structured and user-friendly healthcare website with improved servic
 
 <br>
 
-### 💪 Aya Fitness  
+<h3>💪 Aya Fitness</h3>
 
 <p>
 Rebuilt the platform into a modern, responsive fitness website.
@@ -100,9 +105,13 @@ Rebuilt the platform into a modern, responsive fitness website.
 
 <p><b>Impact:</b> Increased user interaction by ~25%.</p>
 
-🔗 [Visit Website](https://aya-fitness.com/)
+<p>
+<a href="https://aya-fitness.com/">
+<img src="https://img.shields.io/badge/View%20Website-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
 
-<br><br>
+<br>
 
 </td>
 
@@ -114,7 +123,7 @@ Rebuilt the platform into a modern, responsive fitness website.
 
 <br>
 
-### 🧠 Hadeel’s Therapy  
+<h3>🧠 Hadeel’s Therapy</h3>
 
 <p>
 Designed a calm and accessible interface focused on readability.
@@ -122,9 +131,13 @@ Designed a calm and accessible interface focused on readability.
 
 <p><b>Impact:</b> Improved clarity and accessibility.</p>
 
-🔗 [Visit Website](https://hadeel-therapy.com/)
+<p>
+<a href="https://hadeel-therapy.com/">
+<img src="https://img.shields.io/badge/View%20Website-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
 
-<br><br>
+<br>
 
 </td>
 
@@ -140,7 +153,7 @@ Designed a calm and accessible interface focused on readability.
 
 <br>
 
-### 🎨 V Supportive Design  
+<h3>🎨 V Supportive Design</h3>
 
 <p>
 Built a visually refined website reflecting brand identity.
@@ -148,9 +161,13 @@ Built a visually refined website reflecting brand identity.
 
 <p><b>Impact:</b> Stronger visual experience.</p>
 
-🔗 [Visit Website](https://vsupportivedesign.com/)
+<p>
+<a href="https://vsupportivedesign.com/">
+<img src="https://img.shields.io/badge/View%20Website-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
 
-<br><br>
+<br>
 
 </td>
 
@@ -162,7 +179,7 @@ Built a visually refined website reflecting brand identity.
 
 <br>
 
-### 🎤 Workshops Platform  
+<h3>🎤 Workshops Platform</h3>
 
 <p>
 Developed a structured platform for workshops and events.
@@ -170,9 +187,13 @@ Developed a structured platform for workshops and events.
 
 <p><b>Impact:</b> Better content organization and navigation.</p>
 
-🔗 [Visit Website](https://smaher-saadi-helf.com/workshops/)
+<p>
+<a href="https://smaher-saadi-helf.com/workshops/">
+<img src="https://img.shields.io/badge/View%20Website-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
 
-<br><br>
+<br>
 
 </td>
 
@@ -187,188 +208,7 @@ Developed a structured platform for workshops and events.
 ----
 ---
 
-## 💻 React & Development Projects
 
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-<a href="PROJECT_LINK_HERE" target="_blank">
-  <img src="IMAGE_LINK_HERE" width="100%" />
-</a>
-
-<br>
-
-### 🛒 E-Commerce Platform  
-**React + ASP.NET**
-
-<p>
-Built a full e-commerce frontend with authentication, product browsing, shopping cart, order tracking, and admin dashboard interfaces.
-</p>
-
-<p><b>Focus:</b> Real-world structure, usability, and scalable user flows.</p>
-
-🔗 [View Project](PROJECT_LINK_HERE)
-
-<br><br>
-
-</td>
-
-<td width="33%" valign="top">
-
-<a href="PROJECT_LINK_HERE" target="_blank">
-  <img src="IMAGE_LINK_HERE" width="100%" />
-</a>
-
-<br>
-
-### 🛍️ Vida E-Commerce  
-**React + Node.js**
-
-<p>
-Developed a responsive e-commerce interface with product filtering, cart management, and order placement.
-</p>
-
-<p><b>Focus:</b> Clean UI, intuitive shopping flow, and responsive experience.</p>
-
-🔗 [View Project](PROJECT_LINK_HERE)
-
-<br><br>
-
-</td>
-
-<td width="33%" valign="top">
-
-<a href="PROJECT_LINK_HERE" target="_blank">
-  <img src="IMAGE_LINK_HERE" width="100%" />
-</a>
-
-<br>
-
-### 🎮 Blackjack Game  
-**JavaScript + HTML + CSS**
-
-<p>
-Created an interactive card game with complete game logic, dynamic UI updates, and smooth animations.
-</p>
-
-<p><b>Focus:</b> Interactivity, game logic, and engaging user experience.</p>
-
-🔗 [View Project](PROJECT_LINK_HERE)
-
-<br><br>
-
-</td>
-
-</tr>
-</table>
-
-</div>
----
-## 💻 React & Development Projects
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-<a href="LIVE_DEMO_LINK">
-  <img src="BLACKJACK_IMAGE_LINK" width="100%" />
-</a>
-
-<br>
-
-<h3>🎮 Blackjack Game</h3>
-
-<p>
-Interactive Blackjack game with clean UI, score logic, card rendering, and smooth HIT / STAND gameplay.
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="26"/>
-</p>
-
-<p>
-  <a href="GITHUB_LINK" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-1a1b27?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="LIVE_DEMO_LINK" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/View%20Live-1a1b27?style=flat&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="VIDEO_LINK" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Video-1a1b27?style=flat&logo=youtube&logoColor=white"/>
-  </a>
-</p>
-
-<br>
-
-</td>
-
-<td width="33%" valign="top">
-
-<a href="LIVE_DEMO_LINK">
-  <img src="ECOMMERCE_IMAGE_LINK" width="100%" />
-</a>
-
-<br>
-
-<h3>🛒 E-Commerce Platform</h3>
-
-<p>
-Full e-commerce frontend with authentication, product browsing, cart, order tracking, and admin dashboard.
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,dotnet,cs" height="26"/>
-</p>
-
-<p>
-  <a href="GITHUB_LINK" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-1a1b27?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="LIVE_DEMO_LINK" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/View%20Live-1a1b27?style=flat&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-<br>
-
-</td>
-
-<td width="33%" valign="top">
-
-<a href="LIVE_DEMO_LINK">
-  <img src="VIDA_IMAGE_LINK" width="100%" />
-</a>
-
-<br>
-
-<h3>🛍️ Vida E-Commerce</h3>
-
-<p>
-Responsive e-commerce interface with product filtering, cart management, and clean UX.
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js" height="26"/>
-</p>
-
-<p>
-  <a href="GITHUB_LINK" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-1a1b27?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="LIVE_DEMO_LINK" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/View%20Live-1a1b27?style=flat&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-<br>
-
-</td>
-
-</tr>
-</table>
 ---
 
 <table>
