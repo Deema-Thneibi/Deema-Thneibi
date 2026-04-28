@@ -241,7 +241,7 @@ Developed a full-featured e-commerce platform for Odai Abu Younis Furniture Stor
 <td width="33%" valign="top">
 
 <a href="LIVE_DEMO_LINK">
-  <img src="IMAGE_LINK_VIDA" width="100%" />
+  <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/vida.jpg" width="100%" />
 </a>
 
 <h3>🛍️ Vida</h3>
@@ -255,8 +255,8 @@ Built a modern e-commerce platform with product browsing, filtering, cart manage
 <p><img src="https://skillicons.dev/icons?i=react,css,bootstrap" height="26"/></p>
 
 <p>
-<a href="GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="VIDEO_LINK"><img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/Deema-Thneibi/Vida"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://drive.google.com/file/d/1Bg2TUJC2qAlKFsgEog3_JM8eKncgeE0B/view"><img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 <br>
