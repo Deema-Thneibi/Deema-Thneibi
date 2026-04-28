@@ -15,7 +15,9 @@
 
 <br>
 
-<img align="right" src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/img.png" width="400px"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/img.png" width="75%" />
+</p>
 
 <div align="left">
 
@@ -35,7 +37,7 @@ Specialized in React and WordPress, with a solid foundation in backend developme
 
 </div>
 
-<br clear="right"/>
+<br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>&nbsp;
@@ -61,11 +63,10 @@ Specialized in React and WordPress, with a solid foundation in backend developme
 
 ## 🌐 WordPress Projects — Real Client Websites
 
-<table cellpadding="10">
+<table width="100%" cellpadding="10">
 <tr>
 
 <td width="33%" valign="top">
-
 <a href="https://mnt-clinic.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/MNT_Clinic.png" width="100%" />
 </a>
@@ -78,16 +79,12 @@ Developed a structured and user-friendly healthcare website with improved servic
 
 <p><b>Impact:</b> Enhanced usability and increased engagement.</p>
 
-<p>
 <a href="https://mnt-clinic.com/">
 <img src="https://img.shields.io/badge/View%20Website-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-</p>
-
 </td>
 
 <td width="33%" valign="top">
-
 <a href="https://aya-fitness.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/Aya.png" width="100%" />
 </a>
@@ -100,16 +97,12 @@ Rebuilt the platform into a modern, responsive fitness website.
 
 <p><b>Impact:</b> Increased user interaction by ~25%.</p>
 
-<p>
 <a href="https://aya-fitness.com/">
 <img src="https://img.shields.io/badge/View%20Website-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-</p>
-
 </td>
 
 <td width="33%" valign="top">
-
 <a href="https://hadeel-therapy.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/hadeel.png" width="100%" />
 </a>
@@ -122,12 +115,9 @@ Designed a calm and accessible interface focused on readability.
 
 <p><b>Impact:</b> Improved clarity and accessibility.</p>
 
-<p>
 <a href="https://hadeel-therapy.com/">
 <img src="https://img.shields.io/badge/View%20Website-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-</p>
-
 </td>
 
 </tr>
@@ -135,7 +125,6 @@ Designed a calm and accessible interface focused on readability.
 <tr>
 
 <td width="33%" valign="top">
-
 <a href="https://vsupportivedesign.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/vsupportivedesign.png" width="100%" />
 </a>
@@ -148,16 +137,12 @@ Built a visually refined website reflecting brand identity.
 
 <p><b>Impact:</b> Stronger visual experience.</p>
 
-<p>
 <a href="https://vsupportivedesign.com/">
 <img src="https://img.shields.io/badge/View%20Website-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-</p>
-
 </td>
 
 <td width="33%" valign="top">
-
 <a href="https://smaher-saadi-helf.com/workshops/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/smaher.png" width="100%" />
 </a>
@@ -170,12 +155,9 @@ Developed a structured platform for workshops and events.
 
 <p><b>Impact:</b> Better content organization and navigation.</p>
 
-<p>
 <a href="https://smaher-saadi-helf.com/workshops/">
 <img src="https://img.shields.io/badge/View%20Website-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-</p>
-
 </td>
 
 <td width="33%" valign="top"></td>
@@ -187,11 +169,10 @@ Developed a structured platform for workshops and events.
 
 ## 💻 Front-End Projects (React & JavaScript)
 
-<table cellpadding="10">
+<table width="100%" cellpadding="10">
 <tr>
 
 <td width="33%" valign="top">
-
 <a href="https://drive.google.com/drive/folders/1SQ9kALFzIVdmUjFtJtVTt6Io8sn8OkJq">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/elegantTouch.jpg" width="100%" />
 </a>
@@ -208,19 +189,15 @@ Developed a full-featured e-commerce platform for Odai Abu Younis Furniture Stor
 <img src="https://skillicons.dev/icons?i=react,css,bootstrap" height="26"/>
 </p>
 
-<p>
 <a href="https://github.com/Deema-Thneibi/Elegant-Touch">
 <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/>
 </a>&nbsp;
 <a href="https://drive.google.com/drive/folders/1SQ9kALFzIVdmUjFtJtVTt6Io8sn8OkJq">
 <img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-</p>
-
 </td>
 
 <td width="33%" valign="top">
-
 <a href="#">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/vida.jpg" width="100%" />
 </a>
@@ -237,19 +214,15 @@ Built a modern e-commerce platform with responsive design and cart system.
 <img src="https://skillicons.dev/icons?i=react,css,bootstrap" height="26"/>
 </p>
 
-<p>
 <a href="https://github.com/Deema-Thneibi/Vida">
 <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/>
 </a>&nbsp;
 <a href="https://drive.google.com/file/d/1Bg2TUJC2qAlKFsgEog3_JM8eKncgeE0B/view">
 <img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-</p>
-
 </td>
 
 <td width="33%" valign="top">
-
 <a href="https://deema-thneibi.github.io/Blackjack-game/">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/Blackjack%20Game.png" width="100%" />
 </a>
@@ -266,15 +239,12 @@ Interactive game with full logic, card rendering, and dynamic UI.
 <img src="https://skillicons.dev/icons?i=html,css,js" height="26"/>
 </p>
 
-<p>
 <a href="https://github.com/Deema-Thneibi/Blackjack-game">
 <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/>
 </a>&nbsp;
 <a href="https://deema-thneibi.github.io/Blackjack-game/">
 <img src="https://img.shields.io/badge/Live-1a1b27?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
-
 </td>
 
 </tr>
