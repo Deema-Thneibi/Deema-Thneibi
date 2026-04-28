@@ -57,6 +57,8 @@ Specialized in React and WordPress, with a solid foundation in backend developme
 
 ---
 
+## 🌐 WordPress Projects — Real Client Websites
+
 <table>
 <tr>
 
@@ -178,6 +180,88 @@ Developed a structured platform for workshops and events.
 
 </tr>
 
+</table>
+
+</div>
+
+----
+---
+
+## 💻 React & Development Projects
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<a href="PROJECT_LINK_HERE" target="_blank">
+  <img src="IMAGE_LINK_HERE" width="100%" />
+</a>
+
+<br>
+
+### 🛒 E-Commerce Platform  
+**React + ASP.NET**
+
+<p>
+Built a full e-commerce frontend with authentication, product browsing, shopping cart, order tracking, and admin dashboard interfaces.
+</p>
+
+<p><b>Focus:</b> Real-world structure, usability, and scalable user flows.</p>
+
+🔗 [View Project](PROJECT_LINK_HERE)
+
+<br><br>
+
+</td>
+
+<td width="33%" valign="top">
+
+<a href="PROJECT_LINK_HERE" target="_blank">
+  <img src="IMAGE_LINK_HERE" width="100%" />
+</a>
+
+<br>
+
+### 🛍️ Vida E-Commerce  
+**React + Node.js**
+
+<p>
+Developed a responsive e-commerce interface with product filtering, cart management, and order placement.
+</p>
+
+<p><b>Focus:</b> Clean UI, intuitive shopping flow, and responsive experience.</p>
+
+🔗 [View Project](PROJECT_LINK_HERE)
+
+<br><br>
+
+</td>
+
+<td width="33%" valign="top">
+
+<a href="PROJECT_LINK_HERE" target="_blank">
+  <img src="IMAGE_LINK_HERE" width="100%" />
+</a>
+
+<br>
+
+### 🎮 Blackjack Game  
+**JavaScript + HTML + CSS**
+
+<p>
+Created an interactive card game with complete game logic, dynamic UI updates, and smooth animations.
+</p>
+
+<p><b>Focus:</b> Interactivity, game logic, and engaging user experience.</p>
+
+🔗 [View Project](PROJECT_LINK_HERE)
+
+<br><br>
+
+</td>
+
+</tr>
 </table>
 
 </div>
