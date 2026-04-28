@@ -36,17 +36,18 @@ Specialized in React and WordPress, with a solid foundation in backend developme
 
 <br/>
 <br/>
-<br/>
-
-<p align="left"  >
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/WordPress-1a1b27?style=for-the-badge&logo=wordpress&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/C%23-1a1b27?style=for-the-badge&logo=csharp&logoColor=9B4FDE"/>
+  <img src="https://img.shields.io/badge/ASP.NET-1a1b27?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
+<img src="https://img.shields.io/badge/C%23-1a1b27?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/SQL_Server-1a1b27?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
+<img src="https://img.shields.io/badge/Cybersecurity-1a1b27?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
+<img src="https://img.shields.io/badge/Threat%20Intelligence-1a1b27?style=for-the-badge&logo=virustotal&logoColor=394EFF"/>
 </p>
 
 ---
