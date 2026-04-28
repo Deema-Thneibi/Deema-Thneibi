@@ -1,85 +1,99 @@
-<h1 align="center">Hi 👋, I'm Deema Thneibi</h1>
+<div align="center">
+
+# 💘 Hi there, I'm <span style="color:#b65cff;">Deema Thneibi</span> 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B65CFF&center=true&vCenter=true&width=800&lines=Front-End+Developer+%7C+React+%26+WordPress;Clean+Code+%7C+Modern+UI+%7C+Great+UX;Cybersecurity+%26+Threat+Intelligence;Code.+Create.+Impact." />
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### >_ Front-End Developer | React & WordPress
+
+I build responsive, user-friendly web applications and modern websites that deliver real value.
+
+Passionate about clean code, great UX, and security.
+
+<br>
+
+📧 **Email:** deemathneibi@gmail.com  
+💼 **LinkedIn:** linkedin.com/in/deemathneibi  
+💻 **GitHub:** github.com/Deema-Thneibi  
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/banner.png" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer;React+%7C+WordPress;Cybersecurity+Mindset;Building+Real+Impact+🚀&center=true&width=550&height=45">
+  <img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/WordPress-1a1b27?style=for-the-badge&logo=wordpress&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/C%23-1a1b27?style=for-the-badge&logo=csharp&logoColor=9B4FDE"/>
+  <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/SQL_Server-1a1b27?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
 </p>
 
 ---
 
-## 🚀 Who Am I?
+<table>
+<tr>
+<td width="33%">
 
-I'm a **Front-End Developer** who doesn't just build interfaces —  
-I build **experiences that users actually enjoy**.
+## 📌 About Me
 
-💡 I specialize in:
-- React applications  
-- WordPress websites (real clients)  
-- Clean UI & smooth UX  
+⚓ Front-End Developer with experience in React & WordPress  
 
-🔐 And I bring a **Cybersecurity mindset** into development.
+⚓ Built real client websites with modern & responsive designs  
 
----
+⚓ Strong foundation in backend development  
 
-## 💥 What I Actually Did (Not Just Learned)
+⚓ Cybersecurity enthusiast  
+**Threat Intelligence, IOCs, TTPs**  
 
-### 🏥 MNT Clinic  
-🔗 https://mnt-clinic.com/  
-✔ Improved navigation & structure  
-✔ Made services clearer and easier to access  
-✔ Better user experience  
+⚓ Always learning and building impactful projects  
 
----
+</td>
 
-### 💪 Aya Fitness  
-🔗 https://aya-fitness.com/  
-✔ Rebuilt from a poor design → modern responsive website  
-✔ Increased user interaction  
-✔ Clean and simple UI  
+<td width="33%">
 
----
+## 🚀 Current Focus
 
-### 🧠 Hadeel’s Therapy  
-🔗 https://hadeel-therapy.com/  
-✔ Designed calm & readable interface  
-✔ Improved accessibility  
-✔ Focused on user comfort  
+⚛️ Advanced React Development  
 
----
+💎 Building scalable web applications  
 
-## 💻 Development Projects  
+📍 Cybersecurity & Threat Intelligence  
 
-### 🛒 E-Commerce Platform  
-React + ASP.NET  
+🔵 Open to new opportunities  
 
-✔ Authentication  
-✔ Cart & orders  
-✔ Admin dashboard  
-✔ Real-world structure  
+</td>
+
+<td width="33%">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Deema-Thneibi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B65CFF&icon_color=FF5C8A&text_color=FFFFFF" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛍️ Vida E-Commerce  
-React + Node.js  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b65cff,100:ff5c8a&height=120&section=footer"/>
 
-✔ Product filtering  
-✔ Responsive UI  
-✔ Clean UX  
-
----
-
-### 🎮 Blackjack Game  
-
-✔ Full game logic  
-✔ Interactive UI  
-✔ Smooth animations  
-
----
-
-## 🧠 Skills That Matter  
-
-```diff
-+ Frontend: React, JavaScript, HTML, CSS
-+ Backend: ASP.NET MVC, REST APIs
-+ Database: SQL Server
-+ Tools: GitHub, WordPress
-+ Cybersecurity: IOCs, TTPs, Threat Intelligence
+</div>
