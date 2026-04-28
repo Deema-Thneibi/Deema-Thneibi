@@ -55,7 +55,6 @@ Specialized in React and WordPress, with a solid foundation in backend developme
 
 ## 🚀 Featured Portfolio
 
----
 
 ## 🌐 WordPress Projects — Real Client Websites
 
