@@ -62,11 +62,11 @@ Specialized in React and WordPress, with a solid foundation in backend developme
 
 ## 🌐 WordPress Projects — Real Client Websites
 
-<table>
+<table width="100%" cellpadding="15">
 
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <a href="https://mnt-clinic.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/MNT_Clinic.png" width="100%" />
@@ -92,7 +92,7 @@ Developed a structured and user-friendly healthcare website with improved servic
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <a href="https://aya-fitness.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/Aya.png" width="100%" />
@@ -118,7 +118,11 @@ Rebuilt the platform into a modern, responsive fitness website.
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 <a href="https://hadeel-therapy.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/hadeel.png" width="100%" />
@@ -144,11 +148,7 @@ Designed a calm and accessible interface focused on readability.
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <a href="https://vsupportivedesign.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/vsupportivedesign.png" width="100%" />
@@ -174,50 +174,20 @@ Built a visually refined website reflecting brand identity.
 
 </td>
 
-<td width="33%" valign="top">
-
-<a href="https://smaher-saadi-helf.com/workshops/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/smaher.png" width="100%" />
-</a>
-
-<br>
-
-<h3>🎤 Workshops Platform</h3>
-
-<p>
-Developed a structured platform for workshops and events.
-</p>
-
-<p><b>Impact:</b> Better content organization and navigation.</p>
-
-<p>
-<a href="https://smaher-saadi-helf.com/workshops/">
-<img src="https://img.shields.io/badge/View%20Website-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</p>
-
-<br>
-
-</td>
-
-<td width="33%"></td>
-
 </tr>
 
 </table>
-
-</div>
 
 ----
 
 <div align="left">
 
 ## 💻 Front-End Projects (React & JavaScript)
-<table>
+<table width="100%" cellpadding="15">
 
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <a href="https://drive.google.com/drive/folders/1SQ9kALFzIVdmUjFtJtVTt6Io8sn8OkJq">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/elegantTouch.jpg" width="100%" />
@@ -234,13 +204,17 @@ Developed a full-featured e-commerce platform for Odai Abu Younis Furniture Stor
 <p><img src="https://skillicons.dev/icons?i=react,css,bootstrap" height="26"/></p>
 
 <p>
-<a href="https://github.com/Deema-Thneibi/Elegant-Touch"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://drive.google.com/drive/folders/1SQ9kALFzIVdmUjFtJtVTt6Io8sn8OkJq"><img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/Deema-Thneibi/Elegant-Touch">
+<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+<a href="https://drive.google.com/drive/folders/1SQ9kALFzIVdmUjFtJtVTt6Io8sn8OkJq">
+<img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 </p>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <a href="#">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/vida.jpg" width="100%" />
@@ -257,16 +231,24 @@ Built a modern e-commerce platform with responsive design and cart system.
 <p><img src="https://skillicons.dev/icons?i=react,css,bootstrap" height="26"/></p>
 
 <p>
-<a href="https://github.com/Deema-Thneibi/Vida"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://drive.google.com/file/d/1Bg2TUJC2qAlKFsgEog3_JM8eKncgeE0B/view"><img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/Deema-Thneibi/Vida">
+<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+<a href="https://drive.google.com/file/d/1Bg2TUJC2qAlKFsgEog3_JM8eKncgeE0B/view">
+<img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 </p>
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
 
-<a href="#">
-  <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/Blackjack Game.png" width="100%" />
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://deema-thneibi.github.io/Blackjack-game/">
+  <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/Blackjack%20Game.png" width="100%" />
 </a>
 
 <h3>🎮 Blackjack Game</h3>
@@ -280,14 +262,19 @@ Interactive game with full logic, card rendering, and dynamic UI.
 <p><img src="https://skillicons.dev/icons?i=html,css,js" height="26"/></p>
 
 <p>
-<a href="https://github.com/Deema-Thneibi/Blackjack-game"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://deema-thneibi.github.io/Blackjack-game/"><img src="https://img.shields.io/badge/Live-1a1b27?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/Deema-Thneibi/Blackjack-game">
+<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+<a href="https://deema-thneibi.github.io/Blackjack-game/">
+<img src="https://img.shields.io/badge/Live-1a1b27?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
 </td>
 
-</tr>
+<td width="50%"></td>
 
+</tr>
 
 </table>
 
