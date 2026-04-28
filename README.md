@@ -208,9 +208,11 @@ Developed a structured platform for workshops and events.
 ----
 ---
 
-## 💻 React & Development Projects
+<div align="left">
 
+## 💻 Front-End Projects (React & JavaScript)
 <table>
+
 <tr>
 
 <td width="33%" valign="top">
@@ -222,10 +224,10 @@ Developed a structured platform for workshops and events.
 <h3>🛒 Elegant Touch</h3>
 
 <p>
-Developed a full-featured e-commerce platform for Odai Abu Younis Furniture Store, focusing on structured product categorization, inventory handling, and a seamless shopping experience.
+Developed a full-featured e-commerce platform for Odai Abu Younis Furniture Store.
 </p>
 
-<p><b>Impact:</b> Enhanced usability and improved the overall shopping flow.</p>
+<p><b>Impact:</b> Enhanced usability and improved the shopping flow.</p>
 
 <p><img src="https://skillicons.dev/icons?i=react,css,bootstrap" height="26"/></p>
 
@@ -234,23 +236,21 @@ Developed a full-featured e-commerce platform for Odai Abu Younis Furniture Stor
 <a href="https://drive.google.com/drive/folders/1SQ9kALFzIVdmUjFtJtVTt6Io8sn8OkJq"><img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-<br>
-
 </td>
 
 <td width="33%" valign="top">
 
-<a href="LIVE_DEMO_LINK">
+<a href="#">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/vida.jpg" width="100%" />
 </a>
 
 <h3>🛍️ Vida</h3>
 
 <p>
-Built a modern e-commerce platform with product browsing, filtering, cart management, and a responsive shopping experience across devices.
+Built a modern e-commerce platform with responsive design and cart system.
 </p>
 
-<p><b>Impact:</b> Streamlined the purchasing process and improved user interaction.</p>
+<p><b>Impact:</b> Improved user interaction.</p>
 
 <p><img src="https://skillicons.dev/icons?i=react,css,bootstrap" height="26"/></p>
 
@@ -259,173 +259,49 @@ Built a modern e-commerce platform with product browsing, filtering, cart manage
 <a href="https://drive.google.com/file/d/1Bg2TUJC2qAlKFsgEog3_JM8eKncgeE0B/view"><img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-<br>
-
 </td>
 
 <td width="33%" valign="top">
 
-<a href="LIVE_DEMO_LINK">
-  <img src="IMAGE_LINK_UDACITY" width="100%" />
-</a>
-
-<h3>🎓 Udacity Courses Website</h3>
-
-<p>
-Designed an educational platform showcasing training programs with a clean layout, clear course presentation, and organized content structure.
-</p>
-
-<p><b>Impact:</b> Improved course discoverability and content accessibility.</p>
-
-<p><img src="https://skillicons.dev/icons?i=html,css,js" height="26"/></p>
-
-<p>
-<a href="GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/Live-1a1b27?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
-<br>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-<a href="LIVE_DEMO_LINK">
-  <img src="IMAGE_LINK_LEARNING" width="100%" />
-</a>
-
-<h3>📚 Online Learning Platform</h3>
-
-<p>
-Developed the front-end of an online learning platform with a simple, responsive interface for exploring courses efficiently.
-</p>
-
-<p><b>Impact:</b> Delivered a smooth and accessible learning experience.</p>
-
-<p><img src="https://skillicons.dev/icons?i=html,css" height="26"/></p>
-
-<p>
-<a href="GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/Live-1a1b27?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
-<br>
-
-</td>
-
-<td width="33%" valign="top">
-
-<a href="LIVE_DEMO_LINK">
-  <img src="IMAGE_LINK_MISBAHA" width="100%" />
-</a>
-
-<h3>📿 Digital Misbaha</h3>
-
-<p>
-Developed an interactive digital misbaha that simulates traditional prayer beads with smooth interaction and a user-friendly interface.
-</p>
-
-<p><b>Focus:</b> Simplicity, usability, and engaging interaction.</p>
-
-<p><img src="https://skillicons.dev/icons?i=html,css,js" height="26"/></p>
-
-<p>
-<a href="GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/Live-1a1b27?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
-<br>
-
-</td>
-
-<td width="33%" valign="top">
-
-<a href="LIVE_DEMO_LINK">
-  <img src="IMAGE_LINK_SUBWAY" width="100%" />
-</a>
-
-<h3>🚇 Subway Passenger Counter</h3>
-
-<p>
-Built a lightweight web app for tracking passenger counts with trip records, timestamps, and history management.
-</p>
-
-<p><b>Impact:</b> Provided a simple solution for recording and reviewing trip data.</p>
-
-<p><img src="https://skillicons.dev/icons?i=html,css,js" height="26"/></p>
-
-<p>
-<a href="GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/Live-1a1b27?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
-<a href="VIDEO_LINK"><img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
-
-<br>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-<a href="LIVE_DEMO_LINK">
-  <img src="IMAGE_LINK_BLACKJACK" width="100%" />
+<a href="#">
+  <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/Blackjack Game.png" width="100%" />
 </a>
 
 <h3>🎮 Blackjack Game</h3>
 
 <p>
-Developed an interactive Blackjack game with full game logic, card rendering, dynamic UI updates, and real-time score calculation.
+Interactive game with full logic, card rendering, and dynamic UI.
 </p>
 
-<p><b>Focus:</b> Game logic, interactivity, and user engagement.</p>
+<p><b>Focus:</b> Interactivity and user engagement.</p>
 
 <p><img src="https://skillicons.dev/icons?i=html,css,js" height="26"/></p>
 
 <p>
-<a href="GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/Live-1a1b27?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
-<a href="VIDEO_LINK"><img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/Deema-Thneibi/Blackjack-game"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://deema-thneibi.github.io/Blackjack-game/"><img src="https://img.shields.io/badge/Live-1a1b27?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
 </p>
 
-<br>
+</td>
 
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+<!-- Udacity -->
 </td>
 
 <td width="33%" valign="top">
-
-<a href="VIDEO_LINK">
-  <img src="IMAGE_LINK_EXTENSION" width="100%" />
-</a>
-
-<h3>🧩 Leader Tracker Extension</h3>
-
-<p>
-Developed a Chrome extension for saving, organizing, and deleting browser tabs efficiently using JavaScript and local storage.
-</p>
-
-<p><b>Impact:</b> Improved productivity by simplifying tab management.</p>
-
-<p><img src="https://skillicons.dev/icons?i=html,css,js" height="26"/></p>
-
-<p>
-<a href="GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="VIDEO_LINK"><img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
-
-<br>
-
+<!-- Learning -->
 </td>
 
-<td width="33%"></td>
+<td width="33%" valign="top">
+<!-- Misbaha -->
+</td>
 
 </tr>
+
 </table>
 ---
 
