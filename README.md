@@ -12,40 +12,27 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF5C8A&width=700&lines=Front-End+Developer+%7C+React+%26+WordPress;Cybersecurity+%26+Threat+Intelligence" />
 <div align="center">
----
 
-<table>
-<tr>
-<td width="50%">
 
-### >_ Front-End Developer | React & WordPress
+<img align="right" src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/banner.png" width="500px"/>
+<div align="left">
+
+### `>_` Front-End Developer | React & WordPress
 
 I build responsive, user-friendly web applications and modern websites that deliver real value.
 
 Passionate about clean code, great UX, and security.
 
-<br>
-
 📧 **Email:** deemathneibi@gmail.com  
-💼 **LinkedIn:** linkedin.com/in/deemathneibi  
-💻 **GitHub:** github.com/Deema-Thneibi  
+💼 **LinkedIn:** [linkedin.com/in/deemathneibi](https://linkedin.com/in/deemathneibi)  
+🐙 **GitHub:** [github.com/Deema-Thneibi](https://github.com/Deema-Thneibi)
 
-</td>
+</div>
+<br/>
 
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/banner.png" width="100%" />
-
-</td>
-</tr>
-</table>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
+<p align="left"  >
   <img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
