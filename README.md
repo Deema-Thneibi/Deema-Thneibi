@@ -51,6 +51,137 @@ Specialized in React and WordPress, with a solid foundation in backend developme
 </p>
 
 ---
+<div align="left">
+
+## 🚀 Featured Portfolio
+
+---
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<a href="https://mnt-clinic.com/" target="_blank">
+  <img src="IMAGE_LINK_MNT" width="100%" />
+</a>
+
+<br>
+
+### 🏥 MNT Clinic  
+
+<p>
+Developed a structured and user-friendly healthcare website with improved service clarity and navigation.
+</p>
+
+<p><b>Impact:</b> Enhanced usability and increased engagement.</p>
+
+🔗 [Visit Website](https://mnt-clinic.com/)
+
+<br><br>
+
+</td>
+
+<td width="33%" valign="top">
+
+<a href="https://aya-fitness.com/" target="_blank">
+  <img src="IMAGE_LINK_AYA" width="100%" />
+</a>
+
+<br>
+
+### 💪 Aya Fitness  
+
+<p>
+Rebuilt the platform into a modern, responsive fitness website.
+</p>
+
+<p><b>Impact:</b> Increased user interaction by ~25%.</p>
+
+🔗 [Visit Website](https://aya-fitness.com/)
+
+<br><br>
+
+</td>
+
+<td width="33%" valign="top">
+
+<a href="https://hadeel-therapy.com/" target="_blank">
+  <img src="IMAGE_LINK_HADEEL" width="100%" />
+</a>
+
+<br>
+
+### 🧠 Hadeel’s Therapy  
+
+<p>
+Designed a calm and accessible interface focused on readability.
+</p>
+
+<p><b>Impact:</b> Improved clarity and accessibility.</p>
+
+🔗 [Visit Website](https://hadeel-therapy.com/)
+
+<br><br>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+<a href="https://vsupportivedesign.com/" target="_blank">
+  <img src="IMAGE_LINK_VIOLETTA" width="100%" />
+</a>
+
+<br>
+
+### 🎨 V Supportive Design  
+
+<p>
+Built a visually refined website reflecting brand identity.
+</p>
+
+<p><b>Impact:</b> Stronger visual experience.</p>
+
+🔗 [Visit Website](https://vsupportivedesign.com/)
+
+<br><br>
+
+</td>
+
+<td width="33%" valign="top">
+
+<a href="https://smaher-saadi-helf.com/workshops/" target="_blank">
+  <img src="IMAGE_LINK_SAMAHER" width="100%" />
+</a>
+
+<br>
+
+### 🎤 Workshops Platform  
+
+<p>
+Developed a structured platform for workshops and events.
+</p>
+
+<p><b>Impact:</b> Better content organization and navigation.</p>
+
+🔗 [Visit Website](https://smaher-saadi-helf.com/workshops/)
+
+<br><br>
+
+</td>
+
+<td width="33%"></td>
+
+</tr>
+
+</table>
+
+</div>
+---
 
 <table>
 <tr>
