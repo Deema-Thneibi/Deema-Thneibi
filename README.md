@@ -63,7 +63,7 @@ Specialized in React and WordPress, with a solid foundation in backend developme
 <td width="33%" valign="top">
 
 <a href="https://mnt-clinic.com/" target="_blank">
-  <img src="IMAGE_LINK_MNT" width="100%" />
+  <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/MNT_Clinic.png" width="100%" />
 </a>
 
 <br>
