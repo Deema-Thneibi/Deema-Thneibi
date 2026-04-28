@@ -215,8 +215,8 @@ Developed a structured platform for workshops and events.
 
 <td width="33%" valign="top">
 
-<a href="LIVE_DEMO_LINK">
-  <img src="IMAGE_LINK_ELEGANT_TOUCH" width="100%" />
+<a href="https://drive.google.com/drive/folders/1SQ9kALFzIVdmUjFtJtVTt6Io8sn8OkJq">
+  <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/elegantTouch.jpg" width="100%" />
 </a>
 
 <h3>🛒 Elegant Touch</h3>
@@ -230,9 +230,8 @@ Developed a full-featured e-commerce platform for Odai Abu Younis Furniture Stor
 <p><img src="https://skillicons.dev/icons?i=react,css,bootstrap" height="26"/></p>
 
 <p>
-<a href="GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/Live-1a1b27?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
-<a href="VIDEO_LINK"><img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/Deema-Thneibi/Elegant-Touch"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://drive.google.com/drive/folders/1SQ9kALFzIVdmUjFtJtVTt6Io8sn8OkJq"><img src="https://img.shields.io/badge/Video-1a1b27?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 <br>
