@@ -65,8 +65,7 @@ Specialized in React and WordPress, with a solid foundation in backend developme
 <table width="100%" cellpadding="15">
 
 <tr>
-
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <a href="https://mnt-clinic.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/MNT_Clinic.png" width="100%" />
@@ -91,8 +90,10 @@ Developed a structured and user-friendly healthcare website with improved servic
 <br>
 
 </td>
+</tr>
 
-<td width="50%" valign="top">
+<tr>
+<td width="100%" valign="top">
 
 <a href="https://aya-fitness.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/Aya.png" width="100%" />
@@ -117,12 +118,10 @@ Rebuilt the platform into a modern, responsive fitness website.
 <br>
 
 </td>
-
 </tr>
 
 <tr>
-
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <a href="https://hadeel-therapy.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/hadeel.png" width="100%" />
@@ -147,8 +146,10 @@ Designed a calm and accessible interface focused on readability.
 <br>
 
 </td>
+</tr>
 
-<td width="50%" valign="top">
+<tr>
+<td width="100%" valign="top">
 
 <a href="https://vsupportivedesign.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Deema-Thneibi/Deema-Thneibi/main/vsupportivedesign.png" width="100%" />
@@ -173,7 +174,6 @@ Built a visually refined website reflecting brand identity.
 <br>
 
 </td>
-
 </tr>
 
 </table>
