@@ -286,68 +286,24 @@ Interactive game with full logic, card rendering, and dynamic UI.
 
 </tr>
 
-<tr>
-
-<td width="33%" valign="top">
-<!-- Udacity -->
-</td>
-
-<td width="33%" valign="top">
-<!-- Learning -->
-</td>
-
-<td width="33%" valign="top">
-<!-- Misbaha -->
-</td>
-
-</tr>
 
 </table>
----
-
-<table>
-<tr>
-<td width="33%">
 
 ## 📌 About Me
 
-⚓ Front-End Developer with experience in React & WordPress  
-
-⚓ Built real client websites with modern & responsive designs  
-
-⚓ Strong foundation in backend development  
-
-⚓ Cybersecurity enthusiast  
-**Threat Intelligence, IOCs, TTPs**  
-
-⚓ Always learning and building impactful projects  
-
-</td>
-
-<td width="33%">
+- 🎨 **Front-End Developer** specializing in **React & WordPress**
+- 🧩 Built real client websites with **modern & responsive designs**
+- ⚙️ Strong foundation in **backend development (ASP.NET)**
+- 🔐 Passionate about **Cybersecurity & Threat Intelligence**
+- 🧠 Familiar with **IOCs, TTPs, and MITRE ATT&CK**
+- 🚀 Always learning and building **impactful real-world projects**
 
 ## 🚀 Current Focus
 
-⚛️ Advanced React Development  
-
-💎 Building scalable web applications  
-
-📍 Cybersecurity & Threat Intelligence  
-
-🔵 Open to new opportunities  
-
-</td>
-
-<td width="33%">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Deema-Thneibi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B65CFF&icon_color=FF5C8A&text_color=FFFFFF" />
-
-</td>
-</tr>
-</table>
-
+- ⚛️ Advanced React Development  
+- 🏗️ Building scalable web applications  
+- 🛡️ Cybersecurity & Threat Intelligence  
+- 🌍 Open to new opportunities  
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b65cff,100:ff5c8a&height=120&section=footer"/>
